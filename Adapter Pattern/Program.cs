@@ -1,4 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
+﻿// Match interfaces of different classes
 
 public interface IPaypalPayment
 {

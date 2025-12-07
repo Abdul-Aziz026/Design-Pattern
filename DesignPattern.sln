@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template Pattern", "Templat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain of Resposibility Pattern", "Chain of Resposibility Pattern\Chain of Resposibility Pattern.csproj", "{5B6F338F-747D-4448-99E7-EF358E078E6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command Pattern", "Command Pattern\Command Pattern.csproj", "{E592C561-A0F2-4CC2-A7C9-D0AF3B02ABEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{5B6F338F-747D-4448-99E7-EF358E078E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B6F338F-747D-4448-99E7-EF358E078E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B6F338F-747D-4448-99E7-EF358E078E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E592C561-A0F2-4CC2-A7C9-D0AF3B02ABEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E592C561-A0F2-4CC2-A7C9-D0AF3B02ABEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E592C561-A0F2-4CC2-A7C9-D0AF3B02ABEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E592C561-A0F2-4CC2-A7C9-D0AF3B02ABEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

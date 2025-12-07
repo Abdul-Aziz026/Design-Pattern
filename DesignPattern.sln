@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command Pattern", "Command 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command & Template Pattern", "Command & Template Pattern\Command & Template Pattern.csproj", "{8E3E84AE-218F-4BCE-9C59-749163A3E9EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator Design Pattern", "Mediator Design Pattern\Mediator Design Pattern.csproj", "{88FD870D-6571-4C2A-8F3D-6A4ECA6E0B1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{8E3E84AE-218F-4BCE-9C59-749163A3E9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E3E84AE-218F-4BCE-9C59-749163A3E9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E3E84AE-218F-4BCE-9C59-749163A3E9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88FD870D-6571-4C2A-8F3D-6A4ECA6E0B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FD870D-6571-4C2A-8F3D-6A4ECA6E0B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FD870D-6571-4C2A-8F3D-6A4ECA6E0B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FD870D-6571-4C2A-8F3D-6A4ECA6E0B1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

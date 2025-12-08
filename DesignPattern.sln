@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator Design Pattern", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer Pattern", "Observer Pattern\Observer Pattern.csproj", "{08EE20B3-3B44-0FD3-FC23-E7D8EB49E4FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Locator Design Pattern", "Locator Design Pattern\Locator Design Pattern.csproj", "{8FEE01B9-D98E-4343-9609-0B7BD39FC04D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{08EE20B3-3B44-0FD3-FC23-E7D8EB49E4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08EE20B3-3B44-0FD3-FC23-E7D8EB49E4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08EE20B3-3B44-0FD3-FC23-E7D8EB49E4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FEE01B9-D98E-4343-9609-0B7BD39FC04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FEE01B9-D98E-4343-9609-0B7BD39FC04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FEE01B9-D98E-4343-9609-0B7BD39FC04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FEE01B9-D98E-4343-9609-0B7BD39FC04D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
